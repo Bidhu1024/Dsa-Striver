@@ -4,6 +4,6 @@ class Q12FactorialUsingRecursion{
             return 1;
         }
         
-        return N * factorial(N-1);
+        return N * factorial(N-1); 
     } 
 }
