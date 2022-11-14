@@ -9,3 +9,6 @@ Day 8 completed
 Day 9 completed
 Day 10 completed
 Day 11 completed with 1 Qs
+Day 12 completed
+Day 13 cheat day
+Day 14 completed with 2 Qs from Array.
