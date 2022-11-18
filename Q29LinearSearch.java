@@ -8,10 +8,11 @@ public class Q29LinearSearch {
     
     for(int i = 0;i<n;i++){
         if(arr[i]==k){
+            
             return 1;
         }
     }
     
-        return -1;
+        return -1;  
     }
 }
