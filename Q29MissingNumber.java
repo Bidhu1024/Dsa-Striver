@@ -5,7 +5,7 @@ public class Q29MissingNumber {
             int temp=0;
           for(int j=0;j<nums.length;j++){
               if(nums[j]==i){
-                  
+                    
                   temp++;
                   break;
               }
